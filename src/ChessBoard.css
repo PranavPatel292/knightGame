@@ -1,0 +1,51 @@
+#board{
+    display: grid;
+    grid-template-columns: repeat(8, 100px);
+    grid-template-rows: repeat(8, 100px) ;
+    width: 800px;
+    height:  800px;
+    background-color: red;
+}
+
+.tile{
+    width: 100px;
+    height: 100px;
+
+}
+
+.tile-black{
+    background-color: black;
+}
+
+.tile-white{
+    background-color: white;
+}
+
+.tile-destination{
+    background-color: yellow;
+    
+}
+
+.tile-highlight{
+    background-color: blue;
+}
+
+.tile-diable-img{
+    display: none;
+}
+
+.tile-helper{
+    background-color: green;
+}
+
+.btn-helper{
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 10%;
+    border: 3px solid red;   
+    background-color: white;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    height: 50px;
+}
