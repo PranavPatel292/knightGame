@@ -316,8 +316,8 @@ class ChessBoard extends React.Component {
       return (
          <div>
             <div id="board">{board}</div>
-            <button className='btn-random' onClick={randomBtnClcik}>Get Random location</button>
-            <button onClick={helper} className='btn-helper'>Help</button>
+            <button className='btn' onClick={randomBtnClcik}>Get Random location</button>
+            <button onClick={helper} className='btn'>Help</button>
          </div>
       )
    }
