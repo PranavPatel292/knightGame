@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bdad38e5.css",
-    "main.js": "/static/js/main.a2a9dfea.js",
-    "static/js/787.fb9c7072.chunk.js": "/static/js/787.fb9c7072.chunk.js",
-    "index.html": "/index.html",
-    "main.bdad38e5.css.map": "/static/css/main.bdad38e5.css.map",
-    "main.a2a9dfea.js.map": "/static/js/main.a2a9dfea.js.map",
-    "787.fb9c7072.chunk.js.map": "/static/js/787.fb9c7072.chunk.js.map"
+    "main.css": "/knightGame/static/css/main.bdad38e5.css",
+    "main.js": "/knightGame/static/js/main.0bd2b69d.js",
+    "static/js/787.fb9c7072.chunk.js": "/knightGame/static/js/787.fb9c7072.chunk.js",
+    "index.html": "/knightGame/index.html",
+    "main.bdad38e5.css.map": "/knightGame/static/css/main.bdad38e5.css.map",
+    "main.0bd2b69d.js.map": "/knightGame/static/js/main.0bd2b69d.js.map",
+    "787.fb9c7072.chunk.js.map": "/knightGame/static/js/787.fb9c7072.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdad38e5.css",
-    "static/js/main.a2a9dfea.js"
+    "static/js/main.0bd2b69d.js"
   ]
 }
